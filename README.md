@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for Wavvi, a dating app designed to co
 
 ## Overview
 
-[Your App Name] is committed to transparency, user safety, and privacy. Our legal documents are crafted to ensure that users are well-informed about their rights, our practices, and the measures we take to protect personal information.
+Wavvi is committed to transparency, user safety, and privacy. Our legal documents are crafted to ensure that users are well-informed about their rights, our practices, and the measures we take to protect personal information.
 
 ## Documents
 
