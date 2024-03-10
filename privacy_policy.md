@@ -1,6 +1,6 @@
 # Privacy Policy for Wavvi
 
-**Effective Date**: [2024/10/03]
+**Effective Date**: [2024/03/10]
 
 Welcome to Wavvi, a dating app dedicated to creating meaningful connections. Your privacy is critically important to us, and this Privacy Policy outlines the types of information we collect from you and how we use, share, and protect that information.
 
