@@ -1,6 +1,6 @@
 # Wavvi Legal Documentation
 
-Welcome to the official GitHub repository for [Wavvi], a dating app designed to connect individuals in a respectful, inclusive, and secure environment. This repository houses all legal documents critical to our operation and your interaction with our service, including our Privacy Policy, Terms and Conditions, and Data Protection measures.
+Welcome to the official GitHub repository for Wavvi, a dating app designed to connect individuals in a respectful, inclusive, and secure environment. This repository houses all legal documents critical to our operation and your interaction with our service, including our Privacy Policy, Terms and Conditions, and Data Protection measures.
 
 ## Overview
 
@@ -20,4 +20,4 @@ While this repository is primarily for informational purposes, we welcome feedba
 
 For any inquiries regarding these documents or any other concerns, please contact us at [devhorizon.assist@gmail.com].
 
-Thank you for being a part of [Wavvi]. Let's create meaningful connections in a safe and respectful environment.
+Thank you for being a part of Wavvi. Let's create meaningful connections in a safe and respectful environment.
