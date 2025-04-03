@@ -1,55 +1,55 @@
-# **Términos y Condiciones de Wavvi**  
+# **Wavvi Terms and Conditions**  
 
-**Última actualización**: 10 de marzo de 2024  
+**Last Updated**: March 10, 2024  
 
-Bienvenido a **Wavvi**, una aplicación desarrollada por **Overal Labs**. Al acceder y utilizar nuestra plataforma, aceptas cumplir con los siguientes términos y condiciones. Si no estás de acuerdo con alguna parte de estos términos, te recomendamos que no utilices nuestro servicio.  
+Welcome to **Wavvi**, an application developed by **Overal Labs**. By accessing and using our platform, you agree to comply with the following terms and conditions. If you disagree with any part of these terms, we recommend that you do not use our service.  
 
-## **1. Licencia y Propiedad Intelectual**  
-Wavvi y sus respectivos desarrolladores (**Overal Labs**) son propietarios de todos los derechos de propiedad intelectual relacionados con la aplicación, incluyendo su código, diseño, logotipos y contenido. Se otorga a los usuarios una licencia limitada, no exclusiva y revocable para el uso personal y no comercial de la aplicación, siempre que se respeten estas condiciones.  
+## **1. License and Intellectual Property**  
+Wavvi and its respective developers (**Overal Labs**) own all intellectual property rights related to the application, including its code, design, logos, and content. Users are granted a limited, non-exclusive, and revocable license for personal, non-commercial use of the application, provided these conditions are respected.  
 
-## **2. Responsabilidades del Usuario**  
-- **Cuenta**: Eres responsable de mantener la confidencialidad de tus credenciales de acceso y de cualquier actividad realizada bajo tu cuenta.  
-- **Contenido**: Si la aplicación permite la publicación de contenido, garantizas que todo lo que compartas cumple con las leyes aplicables y no infringe derechos de terceros.  
-- **Uso adecuado**: La aplicación debe utilizarse de manera ética y legal.  
+## **2. User Responsibilities**  
+- **Account**: You are responsible for maintaining the confidentiality of your login credentials and any activity conducted under your account.  
+- **Content**: If the application allows content posting, you guarantee that everything you share complies with applicable laws and does not infringe third-party rights.  
+- **Proper Use**: The application must be used ethically and legally.  
 
-## **3. Prohibiciones**  
-Queda estrictamente prohibido:  
-- Utilizar Wavvi para actividades ilegales, fraudulentas o dañinas.  
-- Distribuir malware, realizar ingeniería inversa o interferir con la seguridad de la plataforma.  
-- Acosar, difamar o vulnerar la privacidad de otros usuarios.  
-- Publicar contenido inapropiado, violento o discriminatorio.  
+## **3. Prohibited Activities**  
+The following are strictly prohibited:  
+- Using Wavvi for illegal, fraudulent, or harmful activities.  
+- Distributing malware, reverse engineering, or interfering with platform security.  
+- Harassing, defaming, or violating the privacy of other users.  
+- Posting inappropriate, violent, or discriminatory content.  
 
-## **4. Estándares de Seguridad Infantil (COPPA/GDPR-K)**  
-Wavvi se compromete a proteger la privacidad y seguridad de los menores:  
-- **Edad mínima**: No recopilamos datos de niños menores de **13 años** sin consentimiento verificable de los padres.  
-- **Contenido seguro**: Implementamos filtros y moderación para evitar material inapropiado.  
-- **Control parental**: En caso de funciones interactivas, fomentamos la supervisión de un adulto.  
-- **Datos personales**: No compartimos información de menores con terceros sin autorización expresa.  
+## **4. Child Safety Standards (COPPA/GDPR-K)**  
+Wavvi is committed to protecting minors' privacy and safety:  
+- **Minimum Age**: We do not collect data from children under **13 years** without verifiable parental consent.  
+- **Safe Content**: We implement filters and moderation to prevent inappropriate material.  
+- **Parental Control**: For interactive features, we encourage adult supervision.  
+- **Personal Data**: We do not share minors' information with third parties without explicit authorization.  
 
-## **5. Limitación de Responsabilidad**  
-Wavvi y Overal Labs no serán responsables por:  
-- Daños indirectos, pérdida de datos o interrupciones en el servicio.  
-- El mal uso de la aplicación por parte de los usuarios.  
-- Contenido generado por terceros en caso de integraciones externas.  
+## **5. Limitation of Liability**  
+Wavvi and Overal Labs shall not be liable for:  
+- Indirect damages, data loss, or service interruptions.  
+- User misuse of the application.  
+- Third-party content in case of external integrations.  
 
-## **6. Indemnización**  
-Aceptas indemnizar y eximir de responsabilidad a Wavvi y a Overal Labs por cualquier reclamo, multa o demanda derivada de tu incumplimiento de estos términos.  
+## **6. Indemnification**  
+You agree to indemnify and hold harmless Wavvi and Overal Labs from any claims, fines, or demands arising from your violation of these terms.  
 
-## **7. Modificaciones y Terminación**  
-- **Cambios en los términos**: Nos reservamos el derecho de actualizar estos términos. Se notificarán cambios significativos, pero es tu responsabilidad revisarlos periódicamente.  
-- **Suspensión de servicio**: Podemos restringir o cancelar el acceso si se violan estas condiciones.  
+## **7. Modifications and Termination**  
+- **Term Changes**: We reserve the right to update these terms. Significant changes will be notified, but you are responsible for reviewing them periodically.  
+- **Service Suspension**: We may restrict or cancel access if these conditions are violated.  
 
-## **8. Ley Aplicable y Jurisdicción**  
-Estos términos se rigen por las leyes de [país/región aplicable]. Cualquier disputa se resolverá en los tribunales competentes de [jurisdicción correspondiente].  
+## **8. Governing Law and Jurisdiction**  
+These terms are governed by the laws of [applicable country/region]. Any disputes shall be resolved in the competent courts of [corresponding jurisdiction].  
 
-## **Contacto**  
-Para consultas sobre estos términos, reportar abusos o solicitar soporte, contáctanos en:  
+## **Contact Us**  
+For inquiries about these terms, to report abuse, or request support:  
 📧 **overallabs@gmail.com**  
 
 ---  
-**Overal Labs © 2024** – Todos los derechos reservados.  
+**Overal Labs © 2024** – All rights reserved.  
 
 ---  
-### **Notas adicionales**  
-- **Privacidad**: Consulte nuestra **Política de Privacidad** para detalles sobre el manejo de datos.  
-- **Accesibilidad**: Nos esforzamos por garantizar que Wavvi sea inclusivo y accesible.  
+### **Additional Notes**  
+- **Privacy**: See our **Privacy Policy** for details about data handling.  
+- **Accessibility**: We strive to ensure Wavvi is inclusive and accessible.  
