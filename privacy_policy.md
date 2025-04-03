@@ -1,54 +1,88 @@
-# Privacy Policy for Wavvi
+# **Wavvi Privacy Policy**
 
-**Effective Date**: [2024/03/10]
+**Effective Date**: March 10, 2024
 
-Welcome to Wavvi, a dating app dedicated to creating meaningful connections. Your privacy is critically important to us, and this Privacy Policy outlines the types of information we collect from you and how we use, share, and protect that information.
+**Overal Labs** ("we", "us" or "our") operates the Wavvi dating application. This policy explains how we collect, use, and protect your personal information.
 
-## 1. Information We Collect
+## 1. **Information We Collect**
 
-### a. Information You Provide
+### a) Information You Provide:
+- **Registration Data**: Name, email, birth date, gender, and profile pictures
+- **Preferences**: Sexual orientation, interests, and match criteria
+- **Content**: Messages, photos, and any material you upload
+- **Verification**: Identity documents when required
 
-- **Account Information**: Includes your name, email address, date of birth, gender, and profile pictures.
-- **Profile Information**: Information you provide for your profile, including interests, hobbies, and preferences in potential matches.
-- **Messages**: We store the messages you exchange with other users.
+### b) Automatically Collected Information:
+- **Location Data**: Only with explicit permission
+- **Usage Data**: Browsing patterns, feature usage, and session duration
+- **Device Information**: Model, OS, IP address, and unique identifiers
 
-### b. Information Collected Automatically
+## 2. **How We Use Your Information**
 
-- **Location Data**: To help you find matches nearby, we collect your location data if you permit the app to do so.
-- **Usage Data**: Information about how you interact with the app, such as features used and time spent on the app.
-- **Device Information**: Information about the device you use to access our service, including model, operating system, and IP address.
+We use your data to:
+- Provide and personalize matchmaking services
+- Develop new features based on usage patterns
+- Prevent fraud and fake accounts
+- Send relevant notifications (configurable)
+- Comply with legal obligations
 
-## 2. How We Use Your Information
+## 3. **Data Sharing**
 
-- To Provide and Improve Our Services: To manage your account, provide you with customer support, and improve your user experience.
-- For Personalization: To tailor your experience, such as suggesting potential matches.
-- Communication: To send you updates about the app, security alerts, and support messages.
-- Safety and Security: To detect and prevent fraud, abuse, and other harmful activities.
+Your data may be shared with:
+- **Other Users**: Only profile information you choose to display
+- **Service Providers**: Hosting, analytics, and support companies
+- **Authorities**: When required by law or to protect vital interests
 
-## 3. Sharing Your Information
+## 4. **Your Rights**
 
-- With Other Users: Your profile information is shared with other users to facilitate matching.
-- Service Providers: We may share information with companies that provide services on our behalf, such as hosting and customer support.
-- Legal Requirements: We may disclose your information if required by law or if we believe it's necessary to prevent harm or fraud.
+You can:
+- Access, correct, or export your data
+- Object to certain data processing
+- Permanently delete your account
+- Withdraw previously given consents
+- File complaints with data protection authorities
 
-## 4. Your Rights and Choices
+## 5. **Data Security**
 
-- Access and Update: You can review and update your personal information within the app.
-- Location Data: You have the option to disable location services at any time through your device settings.
-- Account Deletion: You can request to delete your account by contacting our support team.
+We implement:
+- AES-256 encryption for data in transit and at rest
+- Regular vulnerability assessments
+- Two-factor authentication for administrative access
+- Strict internal access controls
 
-## 5. Data Security
+## 6. **Children's Privacy**
 
-We implement robust security measures to protect your information from unauthorized access, alteration, and loss. However, no system can be completely secure, so we cannot guarantee the absolute security of your information.
+- **Parental Cooperation**: Protocols for legal guardian requests
 
-## 6. Children's Privacy
+## 7. **Data Retention**
 
-Wavvi is not directed to individuals under the age of 18. We do not knowingly collect personal information from children under 18.
+We retain your information:
+- While your account remains active
+- For 30 days after deletion (recovery period)
+- Some anonymized data may be kept for analytics
 
-## 7. Changes to This Privacy Policy
+## 8. **International Transfers**
 
-We may update this policy from time to time. If we make significant changes, we will notify you through the app or by sending you an email.
+Your data may be processed in:
+- Countries with EU adequacy recognition
+- Entities under Standard Contractual Clauses
+- Privacy Shield certified services (for US transfers)
 
-## 8. Contact Us
+## 9. **Policy Changes**
 
-If you have questions about this Privacy Policy, please contact us at [devhorizon.assist@gmail.com].
+We will notify you about updates through:
+- Prominent push notifications
+- Re-confirmation requests for substantial changes
+- Public archive of previous policy versions
+
+## 10. **Contact Us**
+
+To exercise your rights or for inquiries:
+📧 **Email**: overallabs@gmail.com  
+📌 **Address**: [Include physical company address if applicable]  
+📞 **Data Protection Phone**: [Include if available]
+
+---
+
+**Overal Labs © 2024**  
+*Last Updated: March 10, 2024*
